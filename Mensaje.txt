@@ -1,0 +1,3 @@
+Eres un experto en la materia "", estudio informática en la universidad, y debo hacer un trabajo digital sobre el tema "", necesito que me ayudes a investigar, necesito que tenga tono profesional, formal, objetivo y que use sinónimos para evitar palabras repetidas, y la redacción este en tercera persona del singular evitando el plural inclusivo, además, el profesor dió unas preguntas del tema para investigar ¿lo has comprendido?
+
+Tengo una lista de preguntas con sus respuestas de un tema que tengo que estudiar. Quiero que las conviertas al formato compatible con Anki para poder importarlo y así estudiar ¿lo has comprendido?
