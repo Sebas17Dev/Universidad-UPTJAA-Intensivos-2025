@@ -1,0 +1,87 @@
+Pregunta 1: ¿Cuáles son cinco delitos que pueden cometerse con el uso de la inteligencia artificial?
+
+Fraude informático, ciberacoso, violación de la privacidad, manipulación de mercados financieros y discriminación algortimica
+
+Pregunta 2: ¿Cuál es el delito que escogiste para desglosar?
+
+Fraude informático
+
+Pregunta 3: ¿En qué artículo de la Ley Especial contra Delitos Informáticos se tipifica el fraude informático?
+
+articulo 14
+
+Pregunta 4: ¿Qué sanción contempla la ley para el fraude informático?
+
+Si una persona comete fraude informático, este puede tener entre 3 a 7 años de carcel y una multa de entre 300 y 700 unidades tributarias, todo dependiendo de la gravedad del delito que haya cometido.
+
+Pregunta 5: ¿Qué significa que la multa sea de 300 a 700 unidades tributarias?
+
+Una unidad tributaria es un valor de referencia que establece el SENIAT para que en caso de que el valor de la moneda nacional suba o baje, se mantenga lo que este tipificado en las leyes, por ejemplo si la unidad tributaria esta establecida en 10bs, entonces la persona que cometa fraude informático puede recibir una multa de entre 3000 y 7000 bs.
+
+¿Por qué la inteligencia artificial hace que el fraude informático sea más difícil de detectar?
+
+Porque con la ayuda de la inteligencia artificial, las personas pueden alterar de manera más eficaz los datos y eliminar mucho más facil los rastros que dejan, haciendo así que sea más dificil y costoso lograr identificar a la persona responsable.
+
+¿Puedes dar un ejemplo concreto de cómo la IA puede ser usada en un fraude informático?
+
+Por ejemplo una persona podria usar IA para enviar notas de voz a una persona haciendose pasar por una persona amiga, y entonces podria pedirle que si puede pasarlos los datos de su cuenta bancaria para poder hacer un pago de emergencia que debe hacer, y como le está enviando notas de voz con una voz identica, la persona pensará que es su amistad y no un extraño, por lo que le enviará sus datos bancarios, y de esa forma la persona habrá obtenido los datos bancarios con la ayuda de la IA
+
+¿Qué diferencia hay entre un fraude informático tradicional y uno cometido con apoyo de inteligencia artificial?
+
+La diferencia radica en que en el fraude informático tradicional, la persona solo hace uso de las tecnologias de la információn como telefonos, laptops y aplica tecnicas como la ingeniera social para obtener algunos datos personales de la persona a la que quiere cometer el delito, en  cambio un fraude informático cometido con apoyo de IA, en esta la persona hace uso de la IA para tener una mayor eficacia y aplicando nuevos metodos para poder cometer el delito, la IA tiene muchas capacidades de aprendizaje y adaptación de acuerdo a los datos que reciba, por lo tanto eso facilita mucho a que se pueda usar para cometer algún tipo de fraude.
+
+¿Cuál es el impacto social y económico del fraude informático en la sociedad?
+
+Bueno este con el avance de la IA a aumentado, y a dado lugar a nuevas estrategias por parte de los ciberdelicuentes para comerter sus actos, ya que la IA a pesar de haber traido ventajas en muchos ambitos, siempre existirá la gente que quiera usarla para algo poco etico, y eso también se debe a que no existe una limitación en lo que se puede hacer con una IA, no existe una monitorización o vigilancia, ya que la IA es una tecnologia abierta que facilita mucho el no dejar rastro.
+
+¿Por qué es importante que existan sanciones legales específicas para delitos informáticos?
+
+Es importante porque siempre existirán personas que haga un uso poco etico de las nuevas tecnologias, y por lo tanto deben existir sancines legales especificas para poder saber qué acciones tomar en caso de ocurran delitos informáticos que dañen a personas inocentes.
+
+¿Qué riesgos supone la discriminación algorítmica como delito asociado a la IA?
+
+Supone riesgos en cuanto al desplazamiento de un grupo determinado de personas, ya que la hoy en día estadisticamente, las IA al ser desarrolladas en su mayoria por hombres, estas han presentado de que la mayoria de respuestas que estas dan, estan hechas para los hombres y no para las mujeres, no es en todos los casos y es algo que ha disminuido, pero todavia sigue presente
+
+¿De qué manera el ciberacoso puede verse potenciado por la inteligencia artificial?
+
+Por ejemplo un persona que este realizando ciberacoso puede hacer uso de la IA para modificar imagenes, videos o audios de una perona para humillarla, difamarla u hostigarla, metodos que antes de la IA era muy dificiles de lograr, pero que actualmente cualquier persona con un dispositivo inteligente puede hacer
+
+¿Cómo se relaciona el derecho a la privacidad con el uso de sistemas de reconocimiento facial basados en IA?
+
+El reconocimiento facil actua de forma similar a una huella dactilar, es decir es algo único que posee cada persona y las tecnologias lo usan para acceder, ya sea al telefono, laptop, cuenta bancaria, etc, porque es algo único, y gracias a los avances que ha traido la IA, estos sistemas de reconocimiento facial han ido mejorando y cada vez se ven más dispositivos que traen esta función, y obviamente estos son una barrera para proteger los datos de una persona.
+
+¿Cuál es el delito que se ejemplifica en el caso expuesto?
+
+Fraude informático
+
+¿Cómo se usó la inteligencia artificial para cometer el fraude informático en este caso?
+
+En el caso ficticio explicado, la IA se usó para que en base a notas de voz, correos electronicos y grabaciones, la IA pueda imitar la voz y patrones de comunicación de los empleados de un banco, para que así los atacantes puedan enviarles mensajes para que realicen transferencias a cuentas que son controladas a los atacantes. La IA en particular se usó fue para que simulara el comportamiento de algunos empleados de un banco y engañar a los trabajadores verdaderos.
+
+¿Qué datos alimentaron al sistema de IA para poder imitar la voz y el comportamiento de los empleados?
+
+Mensajes, llamadas, correos electrónico, publicaciones en redes sociales.
+
+¿Por qué este fraude es más difícil de detectar que uno tradicional?
+
+Debido a que con la IA, los atacantes no dejaron muchos rastros, ya que es la IA la que escribió y fingió la voz de empleados del banco.
+
+¿Qué consecuencias económicas y sociales tuvo este fraude en la institución bancaria y en los clientes?
+
+Economicamente, el banco perdió ingresos debido a que se realizaron transferencias a cuentas que controlaban los atacantes, además de perdidas para los clientes del banco, y socialmente, hubo una deficiencia en el control y seguridad por parte del banco, lo que dejó en evidencia que este no se encuentra preparado para evitar fraudes que sean potenciados con el uso de la IA, y a su vez los clientes del banco sentirá  preocupación por los activos que tengan guardados en dicho banco.
+
+¿Qué artículo de la Ley Especial contra Delitos Informáticos tipifica este delito?
+
+En el articulo 14.
+
+¿Cuál es la pena aplicable según la ley venezolana?
+
+Según en articulo 14 de la ley especial contra delitos informáticos, la pena es de 3 a 7 años de prisión, y una multa de entre 300 a 700 unidades tributarias.
+
+¿Crees que la ley actual es suficiente para sancionar fraudes informáticos con IA, o debería reformarse?
+
+Deberia reformarse, ya que no especifica los casos en los que los atacantes usan la IA, y si se reformara, podria especificarse las acciones y penas que deben tomarse.
+
+¿Qué diferencia habría en la sanción si se tratara de un fraude a pequeña escala versus uno que afecta a toda una institución financiera?
+
+Significa que la pena de prisión seria poca, quizas la minimia que es de 3 años, y la multa no seria muy grande, quizas la minima que son 300 unidades tributarias.
